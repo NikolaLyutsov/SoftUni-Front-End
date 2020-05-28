@@ -1,0 +1,6 @@
+.site-header {
+    background: url("../img/bg-1.jpg");
+    padding: 10em;
+    background-size: cover;
+    background-position: center;
+}
